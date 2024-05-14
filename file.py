@@ -10,3 +10,4 @@ import pandas as pd
 # We make more change?
 
 import nilearn as nl
+import numpy as np
