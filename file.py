@@ -9,4 +9,4 @@ import pandas as pd
 # Will I ever be proficient in this?
 # We make more change?
 
-import nilean as nl
+import nilearn as nl
